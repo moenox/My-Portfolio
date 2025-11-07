@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mohamed's Portfolio</title>
+</head>
+
+<body>
+    <h1>Mohamed Maged Portfoilo</h1>
+    <h2>I'm a web developer</h2>
+    <hr>
+    <h2>My Projects</h2>
+    <h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
+    <img src="./assets/images/Screenshot from 2025-11-06 14-15-22.png" height="550" alt="Movie Ranking">
+    <h3><a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
+    <img src="./assets/images/Screenshot from 2025-11-06 13-38-02.png" height="550"alt="birthday-invite">
+    <hr>
+    <a href="./public/contact.html">Contact Me</a>
+    <br>
+    <a href="./public/about.html">About Me</a>
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Angela's Portfolio</title>
+</head>
+
+<body>
+  <h1>Angela Yu's Portfolio</h1>
+  <h2>I'm a Web Developer</h2>
+  <hr />
+  <h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
+  <img src="./assets/images/movie-ranking.png" height="200" alt="movie ranking project preview"/>
+  <h3><a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
+  <img src="./assets/images/birthday-invite.png" height="200" alt="birthday invite project preview"/>
+  <hr />
+  <a href="./public/about.html">About Me</a>
+  <a href="./public/contact.html">Contact Me</a>
+</body>
+
+</html>
