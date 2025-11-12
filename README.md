@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>Mohamed Maged Portfoilo</h1>
+    <h1>Mohamed's Portfolio</h1>
     <h2>I'm a web developer</h2>
     <hr>
     <h2>My Projects</h2>
